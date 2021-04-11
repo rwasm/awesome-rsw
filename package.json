@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "lint": "awesome-lint README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.17.1"
+  }
+}
