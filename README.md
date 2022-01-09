@@ -20,7 +20,8 @@ A curated list of awesome things related to <a href='https://github.com/lencx/vi
 
 ## Get Started
 
-* [create-xc-app](https://github.com/lencx/create-xc-app) - Create a project in seconds!
+* [create-mpl](https://github.com/lencx/create-mpl) - ⚡️ Create a project in seconds!
+  * `npm init mpl@latest -- --type wasm`
 
 ## Apps/Websites
 
